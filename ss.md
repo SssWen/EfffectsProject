@@ -1,2 +1,1 @@
-
-<div style="width:359px;max-width:100%;"><div style="height:0;padding-bottom:107.24%;position:relative;"><iframe width="359" height="385" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/47dv6d"></iframe></div><p><a href="https://imgflip.com/gif/47dv6d">via Imgflip</a></p></div>
+![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/%E5%8A%A8%E6%80%81%E6%8A%95%E5%BD%B1%E6%B0%B4.gif "Optional ssstitle")
