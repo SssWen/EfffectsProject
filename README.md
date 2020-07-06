@@ -8,3 +8,6 @@
 ![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/GIF/%E5%9C%B0%E8%A1%A8%E6%B1%BD%E6%B2%B9%E6%95%88%E6%9E%9C.gif "地表汽油")
 ![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/GIF/%E6%A8%A1%E5%9E%8B%E7%9D%80%E7%81%AB%E6%95%88%E6%9E%9C.gif "模型着火")
 ![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/GIF/%E6%B2%B3%E6%B5%81.gif "河流")
+流体仿真模拟水
+![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/GIF/%E6%B5%81%E4%BD%93%E4%BB%BF%E7%9C%9F%E5%8A%A8%E6%80%81%E6%B0%B4.gif "水")
+
