@@ -35,6 +35,11 @@ PBR_Demo
 
 ![Alt text](https://github.com/SssWen/EfffectsProject/blob/master/GIF/Billiborn.gif "火焰")
 
+预积分3S皮肤效果+脸颊阴影渐变控制
+
+![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/PreIntegratedSkin%E6%B7%BB%E5%8A%A0%E8%84%B8%E9%A2%8A%E9%98%B4%E5%BD%B1%E5%8E%BB%E6%8E%89%E9%83%A8%E5%88%86%E9%BC%BB%E5%AD%90%E9%98%B4%E5%BD%B1.gif "3S皮肤效果")
+
+
 
 
 
