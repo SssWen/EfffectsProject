@@ -44,6 +44,13 @@ PBR_Demo
 
 ![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/%E4%BF%AE%E6%94%B9%E9%BC%BB%E5%AD%90%E9%80%8F%E9%80%8F%E7%9A%84.gif "鼻子修改")
 
+ASE眼球材质并添加高光
+
+![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/Eye.png "眼球")
+
+
+
+
 
 
 
