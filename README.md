@@ -48,6 +48,12 @@ ASE眼球材质并添加高光
 
 ![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/Eye.png "眼球")
 
+GPU Instance无法用在Skinned Mesh Renderer上，非GPU Instance 方案解决上千个面片朝向相机
+万能Billboard，适用大多数数量较多的情况。【其实就是抄袭暖暖的方案】
+
+![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/nuannnuan_skirt.gif "large billboard")
+
+
 
 
 
