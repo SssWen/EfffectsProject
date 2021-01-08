@@ -60,6 +60,11 @@ GPU Instance无法用在Skinned Mesh Renderer上，非GPU Instance 方案解决�
 ![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/nuannnuan_skirt.gif "large billboard")
 
 
+vs天谕皮肤效果 2021年1月8日
+
+![Alt text](https://github.com/SssWen/Pictures/blob/master/Source/vs%E5%A4%A9%E8%B0%95.png "天谕皮肤效果")
+
+
 
 
 
